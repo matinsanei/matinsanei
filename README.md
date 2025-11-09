@@ -4,9 +4,9 @@
 
 ### `Architect of Cognitive Systems & Future Tooling`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+universes;where+applications+live" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+Foundational+Systems;That+Birth+the+Future" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matin-sanie-75065938a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00D9FF?style=for-the-badge&logo=github)](https://github.com/matinsanei)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:saneimatin33@gmail.com)
 
@@ -22,7 +22,7 @@
 
 </div>
 
-I operate at the intersection of **first-principles engineering** and **AI-augmented creation**—not to automate the mundane, but to manifest the impossible. My work challenges existing paradigms by creating entirely new **materials** for the digital age.
+I operate at the intersection of **first-principles engineering** and **AI-augmented creation**—not to automate the mundane, but to manifest the impossible. My work challenges existing paradigms and builds new ones from absolute zero.
 
 ---
 
@@ -50,7 +50,7 @@ Pioneering a **true cognitive architecture** from first principles—not another
 ┌─────────────┐
 │  Reasoning  │ ← Symbolic Logic + Neural Fusion
 ├─────────────┤
-│  Affective  │ ← QERL Emotional Substrate
+│  Affective  ��� ← QERL Emotional Substrate
 ├─────────────┤
 │  Learning   │ ← Continuous Self-Improvement
 ├─────────────┤
@@ -99,7 +99,7 @@ Intent    Structure     Logic          Fast
 <details open>
 <summary><h3>🔥 File #001 — IgniteStack</h3></summary>
 
-<img src="https://img.shields.io/badge/Scale-400k%2B_Lines-red?style=flat-square" /> <img src="https://img.shields.io/badge/Complexity-Enterprise-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Solo-Built-gold?style=flat-square" />
+<img src="https://img.shields.io/badge/Scale-400k%2B_Lines-red?style=flat-square" /> <img src="https://img.shields.io/badge/Complexity-Enterprise-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Solo-Architected-gold?style=flat-square" />
 
 **Mission:** Architected a complete **enterprise e-commerce & analytics platform** from absolute zero.
 
@@ -283,7 +283,7 @@ I'm open to **strategic collaborations** that push boundaries and challenge para
 
 If you're working on something that requires **first-principles thinking**, **massive scale**, or **paradigm-shifting innovation**, let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matin-sanie-75065938a)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saneimatin33@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matinsanei)
 
