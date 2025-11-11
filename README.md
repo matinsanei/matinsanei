@@ -4,11 +4,29 @@
 
 ### `Architect of Cognitive Systems & Future Tooling`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+Foundational+Systems;That+Birth+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+Future+of+Intelligence;Architecting+Paradigm-Shifting+Systems;First-Principles+Engineer" alt="Typing Animation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matin-sanie-75065938a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00D9FF?style=for-the-badge&logo=github)](https://github.com/matinsanei)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:saneimatin33@gmail.com)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=matinsanei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matinsanei&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinsanei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matinsanei&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph" width="48%" />
 
 </div>
 
@@ -22,7 +40,7 @@
 
 </div>
 
-I operate at the intersection of **first-principles engineering** and **AI-augmented creation**—not to automate the mundane, but to manifest the impossible. My work challenges existing paradigms and builds new ones from absolute zero.
+I operate at the intersection of **first-principles engineering** and **AI-augmented creation**—not to automate the mundane, but to manifest the impossible. My work challenges existing paradigms to create systems that fundamentally redefine what's possible.
 
 ---
 
@@ -50,7 +68,7 @@ Pioneering a **true cognitive architecture** from first principles—not another
 ┌─────────────┐
 │  Reasoning  │ ← Symbolic Logic + Neural Fusion
 ├─────────────┤
-│  Affective  ��� ← QERL Emotional Substrate
+│  Affective  │ ← QERL Emotional Substrate
 ├─────────────┤
 │  Learning   │ ← Continuous Self-Improvement
 ├─────────────┤
@@ -99,7 +117,7 @@ Intent    Structure     Logic          Fast
 <details open>
 <summary><h3>🔥 File #001 — IgniteStack</h3></summary>
 
-<img src="https://img.shields.io/badge/Scale-400k%2B_Lines-red?style=flat-square" /> <img src="https://img.shields.io/badge/Complexity-Enterprise-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Solo-Architected-gold?style=flat-square" />
+<img src="https://img.shields.io/badge/Scale-400k%2B_Lines-red?style=flat-square" /> <img src="https://img.shields.io/badge/Complexity-Enterprise-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Role-Full_Stack-orange?style=flat-square" />
 
 **Mission:** Architected a complete **enterprise e-commerce & analytics platform** from absolute zero.
 
@@ -114,7 +132,7 @@ Intent    Structure     Logic          Fast
 | **👤 Multi-Role** | Backend + Frontend + DevOps + UI/UX (all roles) |
 
 #### 💎 Strategic Outcome
-Proved the capability to **single-handedly deliver** a monolithic, mission-critical application rivaling commercial SaaS platforms. A testament to commanding AI as an engineering army executing a singular vision.
+Proved the capability to **single-handedly deliver** a monolithic, mission-critical application rivaling commercial SaaS platforms. A testament to commanding AI as an engineering army executing a unified vision.
 
 **Tech Stack:** `Python` `Django` `React` `Docker` `PostgreSQL` `Redis` `Celery` `ML/Analytics`
 
@@ -163,44 +181,155 @@ Direct challenge to No-Code/Low-Code industry, replacing limited "builders" with
 
 ---
 
-## 🛠️ The Arsenal
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### Core Technologies
+### 💻 Core Technologies
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Expert-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br>Rust
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+<br>Vue
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+</tr>
+</table>
 
-### Specialized Domains
+### 🎯 Specialized Expertise
 
-```mermaid
-mindmap
-  root((Matin Sanei))
-    AI/ML
-      Neuro-Symbolic AI
-      Reinforcement Learning
-      Grounded Learning
-      Cognitive Architecture
-    System Architecture
-      Microservices
-      Event-Driven
-      Real-Time Systems
-      High-Performance Computing
-    Infrastructure
-      Docker/K8s
-      CI/CD
-      DevOps
-      Cloud Native
-    Developer Tooling
-      Compilers
-      AST Generation
-      Visual IDEs
-      Code Generation
-```
+<table>
+<tr>
+<td width="25%" valign="top">
+
+#### 🤖 AI/ML
+- Neuro-Symbolic AI
+- Reinforcement Learning
+- Grounded Learning
+- Cognitive Architecture
+- Deep Learning
+- Model Optimization
+
+</td>
+<td width="25%" valign="top">
+
+#### 🏗️ System Architecture
+- Microservices
+- Event-Driven Design
+- Real-Time Systems
+- High-Performance Computing
+- Distributed Systems
+- Scalable Infrastructure
+
+</td>
+<td width="25%" valign="top">
+
+#### ☁️ Infrastructure
+- Docker/Kubernetes
+- CI/CD Pipelines
+- DevOps Automation
+- Cloud Native Apps
+- Container Orchestration
+- Infrastructure as Code
+
+</td>
+<td width="25%" valign="top">
+
+#### 🛠️ Developer Tooling
+- Compilers & Interpreters
+- AST Generation
+- Visual IDEs
+- Code Generation
+- Language Design
+- Developer Experience
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -272,6 +401,16 @@ class MatinSanei:
         I architect universes.
         """
 ```
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=matinsanei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
