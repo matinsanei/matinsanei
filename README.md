@@ -368,7 +368,7 @@ Leverage AI not as a crutch, but as an **army executing singular vision**.
 
 | Metric | Achievement |
 |--------|-------------|
-| **Lines of Code (Total)** | 500,000+ |
+| **Lines of Code (Total)** | 5,000,000+ |
 | **Systems Architected** | 3 Major Paradigm-Shifting Projects |
 | **Technologies Mastered** | 15+ Production-Grade |
 | **Roles Executed** | Full-Stack + DevOps + ML + Design |
