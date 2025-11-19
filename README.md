@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Matin Sanei
+#  Matin Sanei
 
 ### `Architect of Cognitive Systems & Future Tooling`
 
