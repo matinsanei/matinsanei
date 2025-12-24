@@ -17,16 +17,31 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=matinsanei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matinsanei&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=matinsanei&label=Profile%20Views&color=00D9FF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/matinsanei?label=Followers&style=flat-square&color=00D9FF&logo=github)
+![Stars](https://img.shields.io/github/stars/matinsanei?label=Total%20Stars&style=flat-square&color=00D9FF&logo=github)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinsanei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matinsanei&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph" width="48%" />
+### 🎯 Activity & Contributions
+
+![GitHub Activity](https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Total%20Commits-500k%2B%20Lines-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Major%20Projects-3-blueviolet?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+### 💻 Primary Technologies
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Expert-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
@@ -404,11 +419,17 @@ class MatinSanei:
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Key Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=matinsanei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+| Achievement | Details |
+|------------|---------|
+| 💻 **Lines of Code** | 500,000+ across all projects |
+| 🏗️ **Major Systems** | 3 paradigm-shifting architectures |
+| 🎯 **Full-Stack Solo** | Complete enterprise systems single-handedly |
+| 🤖 **AI Innovation** | Pioneering neuro-symbolic cognitive architecture |
+| 🚀 **Production Scale** | Enterprise-grade deployments with Docker/K8s |
 
 </div>
 
@@ -427,8 +448,6 @@ If you're working on something that requires **first-principles thinking**, **ma
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matinsanei)
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=matinsanei&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 
 **The quiet work continues.**
 
