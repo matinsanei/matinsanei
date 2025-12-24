@@ -29,7 +29,7 @@
 ### 🎯 Activity & Contributions
 
 ![GitHub Activity](https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Total%20Commits-500k%2B%20Lines-blue?style=for-the-badge)
+![Code Volume](https://img.shields.io/badge/Code%20Volume-500k%2B%20Lines-blue?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Major%20Projects-3-blueviolet?style=for-the-badge)
 
 </div>
