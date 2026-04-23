@@ -283,4 +283,4 @@ I’m open to **strategic collaborations** that push boundaries and challenge pa
 *“The best code is the one you never compile.”* — Worpen motto
 
 </div>
-```
+
